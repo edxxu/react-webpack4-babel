@@ -1,0 +1,11 @@
+{
+  "name": "react-webpack4-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
