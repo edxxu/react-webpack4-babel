@@ -5,5 +5,5 @@ module.exports = {
   semi: true,
   singleQuote: true,
   bracketSpacing: true,
-  parser: 'babel',
+  arrowParens: 'always',
 };
